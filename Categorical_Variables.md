@@ -3,6 +3,8 @@
 1. [Encoding Categorical Variables](#Encoding_Categorical_Variables)
 2. [Dealing with Large Categorical Variables](#Dealing_with_Large_Categorical_Variables)
 
+[Back to Content](README.md)
+
 ---
 
 ## Encoding Categorical Variables
@@ -79,3 +81,6 @@
 	- Bin Counting
 		-  Use the conditional probability of the target under that value
 		-   Rare categories =>  back-off method
+
+
+[Back to TOP](#Categorical_Variables)

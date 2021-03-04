@@ -23,7 +23,7 @@ List some common tips in *Feature Engineering*  (Learning purpose)
 	5. Feature Selection
 2. Text Data
 	1. Bag of X
-3. [Categorical Variables](Categorical\_Variables)
+3. [Categorical Variables](Categorical_Variables.md)
 	1. Encoding Categorical Variables
 	2. Dealing with Large Categorical Variables
 4. Dimension Reduction

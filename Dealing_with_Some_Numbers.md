@@ -6,7 +6,7 @@
 4. [Interaction Features](#Interaction_Features)
 5. [Feature Selection](#Feature_Selection)
 
-[Back to TOP](README.md)
+[Back to Content](README.md)
 
 ---
 ## Counts
@@ -82,3 +82,5 @@
 	-  Perform feature selection as part of the model training process.
 	-  Ex:  Decision tree
 	-  Cost OK
+
+[Back to TOP](#Dealing_with_Some_Numbers)
