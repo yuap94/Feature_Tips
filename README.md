@@ -3,9 +3,19 @@ List some common tips in *Feature Engineering*  (Learning purpose only)
 
 ---
 
+## The Machine learning pipline
+- Data :  observations of real-world phenomena
+- Tasks : WHY we do that
+- Models :  Trying to understand the world
+- Features : A numeric representation of raw data
+- Model Evaluation :  Features and models sit between raw data and the desired insights
+
+
+---
+
 ## Common tips in Feature Engineering
 
-1. Dealing with Some Numbers
+1. [Dealing with Some Numbers](Dealing_with_Some_Numbers)
 	1. Counts
 	2. Log Transformation
 	3. Scaling & Normalization

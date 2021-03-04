@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "fd403acc114d6498",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbe6dc989d0ea43",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dealing_with_Some_Numbers.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0d7772c236bc527a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbef684359a9879",
+    "type": "split",
+    "children": [
+      {
+        "id": "632cd1b84603f421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99db8572d52bbc95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2e26fc4591adf8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f58501399343475a",
+    "type": "split",
+    "children": [
+      {
+        "id": "29fae9a9f98a2c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41de905e7f315bf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dealing_with_Some_Numbers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Dealing_with_Some_Numbers.md",
+    "README.md",
+    "Dealing with Some Numbers.md"
+  ]
+}
